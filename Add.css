@@ -1,0 +1,27 @@
+
+.input
+{
+	padding: 8px;
+}
+.button
+{
+	padding: 14px;
+	margin-left: 70px;
+
+}
+.button-cont
+{
+	padding-top: 16px;
+}
+.heading span
+{
+	border-bottom: 2px solid black;
+}
+.container 
+{
+	border: 2px solid black;
+	margin-left: 25%;
+	width: 50%;
+	padding-bottom: 12px;
+	text-align: center;
+}
